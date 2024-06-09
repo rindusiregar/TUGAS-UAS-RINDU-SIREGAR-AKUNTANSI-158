@@ -13,12 +13,13 @@ Diberikan sebuat file bernama “Online_Retail_Data.csv”. Analisis lah data da
 2.	Duplicate, missing value, atau outliers
 3.	Distribusi yang tidak masuk akal
    ![Data Cleaning](https://github.com/rindusiregar/TUGAS-UAS-RINDU-SIREGAR-AKUNTANSI-158/blob/master/pictures/dataclening.png)
+  	
 •	Langkah 3: Analisis dan Visualisasi
 1.	Membuat variable yang berisi penghitungan total penjualan produk selama satu tahun, total penjualan setiap bulannya, total penerimaan (revenue) setiap bulannya, dan tren penjualan produk setiap bulan.
 2.	Visualisasikan setiap hasil dari variabell yang telah  dibuat menggunakan grafik.
    ![Data Visualisation](https://github.com/rindusiregar/TUGAS-UAS-RINDU-SIREGAR-AKUNTANSI-158/blob/master/pictures/datavisualisasi.png)
  
-Hasil Analisis
+# [Hasil Analisis]
 # Total Penjulan Produk
 ![Sales by Product](https://github.com/rindusiregar/TUGAS-UAS-RINDU-SIREGAR-AKUNTANSI-158/blob/master/pictures/salesbyproduct.png)
 Dari grafik dan hasil analisis diatas dapat dilihat bahwa penjualan produk tidak merata untuk setiap jenisnya. Produk dengan prnjualan tertinggi ialah beware of the cat metal sign dengan total penjualan dalam setahun sejumlah 600 unit. Peringkat dua tertinggi ialah way out metal sign dan diikuti oleh home sweet home metal sign. Sedangkan produk dengan total penjualan terendah yang tidak melebihi 10 unit beberapa diantaranya ialah ant white sweatheart table with 3 draw, baking set 9 piece retrospot, hall cabinet with 3 drawers, metal wall shelf unit with hooks, pink and lilac qualited throw, pink kashmiri occasional table, dll.
