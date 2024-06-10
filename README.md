@@ -30,4 +30,4 @@ Dalam tahun berjalan, total penjualan terbanyak dan revenue tertinggi terjadi di
 
 # Tren Penjualan Produk Setiap Bulan
 ![Tren Product by Month](https://github.com/rindusiregar/TUGAS-UAS-RINDU-SIREGAR-AKUNTANSI-158/blob/master/pictures/topproducteverymonth.png)
-Tren penjualan selama setahun setiap bulannya dapat dilihat pada grafik dan hasil analisis. Dapat disimpulkan bahwa produk dengan penjualan tertinggi setiap bulannya selalu berganti. Namun pada bulan Maret dan  Mei penjualan tertinggi ialah produk “Manual”.
+Tren penjualan selama setahun setiap bulannya dapat dilihat pada grafik dan hasil analisis. Dapat disimpulkan bahwa produk dengan penjualan tertinggi setiap bulannya selalu berganti.
